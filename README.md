@@ -1,6 +1,6 @@
 # Classification_of_SDSS_Objects
 
-Astronomy has been a casual interest of mine since I was young. I never seriously considered it a career, but I did end up minoring in astrophysics. So I was interested in doing a project related to astronomy in some way.
+Astronomy has been a casual interest of mine since I was young. I never seriously considered it as a career, but I did end up minoring in astrophysics. So I was interested in doing a project related to astronomy in some way.
 
 From Wikipedia:
 
